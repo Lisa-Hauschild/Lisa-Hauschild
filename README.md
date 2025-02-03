@@ -1,7 +1,7 @@
 
-# ✨Hello Everybody✨👋
+ <h1 align="center"> ✨Hello Everybody✨👋</h1>
 
-## My name is Lisa and I am excited to learn more about Github.
+<h2 align="center"> My name is Lisa and I am excited to learn more about Github.</h2>
 
 ```diff
 
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
--->
