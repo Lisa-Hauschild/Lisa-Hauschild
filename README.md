@@ -3,8 +3,10 @@
 
 ## My name is Lisa and I am excited to learn more about Github.
 
-Here are some things, that I would like to tell you:
+```diff
 
+@@  Here are some things, that I would like to tell you:@@
+```
 - I like **cooking** but wouldn't mind owning a **replicator** from time to time
 - A temperature below 18° Degrees is a reason for me not to leave my home
 - Please enjoy this mountain scenery of what I believe to be Huangshan, China, while I think about what to add next:
