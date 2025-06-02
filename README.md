@@ -1,21 +1,10 @@
 
- <h1 align="center"> ✨Hello Everybody✨🐋</h1>
+ <h1 align="center"> ✨Hello Everybody✨</h1>
 
-<h2 align="center"> My name is Lisa and I am excited to learn more about Github.</h2>
+<h2 align="center"> My name is Lisa and I am an entry Level Web Developer with strong communication skills</h2>
 
-```diff
+- My preferred languages are English, German and Chinese (Mandarin) but if I were part of a French speaking office team I could easily adapt to that as well 🇩🇪🇦🇹🇬🇧🇺🇸中🇫🇷
+- I just finished technical training, with a focus on React and JavaScript, but as soon as I am done with brushing up on my PostgreSQL I would love to deepen my understanding of Python and start to learn either Java or C#
+- I was really lucky to be placed in a group with former UX Designers for my final project {iPlant} and I am really happy with the sleek, yet colourful design of our app and the soothing dark mode 
 
-@@  Here are some things, that I would like to tell you:@@
-```
-- I like **cooking** but wouldn't mind owning a **replicator** from time to time
-- A temperature below 18° Degrees is a reason for me not to leave my home
-- Please enjoy this mountain scenery of what I believe to be Huangshan, China, while I think about what to add next:
-
-![a picture of three ragged mountain peaks and another mountain in the distance](https://images.pexels.com/photos/28856539/pexels-photo-28856539/free-photo-of-majestic-peaks-of-huangshan-mountains.jpeg?auto=compress&cs=tinysrgb&w=800)
-<!--
-**Lisa-Hauschild/Lisa-Hauschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 
