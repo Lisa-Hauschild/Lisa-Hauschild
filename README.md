@@ -3,8 +3,34 @@
 
 <h2 align="center"> My name is Lisa and I am an entry Level Web Developer with strong communication skills</h2>
 
-- My preferred languages are English, German and Chinese (Mandarin) but if I were part of a French speaking office team I could easily adapt to that as well 🇩🇪🇦🇹🇬🇧🇺🇸中🇫🇷
-- I just finished technical training, with a focus on React and JavaScript, but as soon as I am done with brushing up on my PostgreSQL I would love to deepen my understanding of Python and start to learn either Java or C
-- I was really lucky to be placed in a group with former UX Designers for my final project {iPlant} and I am really happy with the sleek, yet colourful design of our app and the soothing dark mode 
+- My preferred languages are English, German and Chinese (Mandarin) 🇩🇪🇦🇹🇬🇧🇺🇸中
+  
+- I finished technical training, with a focus on React and JavaScript and am now working on 
+
+ 
+My tech stack: 
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
+
+
+
+What I am currently using with clients: 
+
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
