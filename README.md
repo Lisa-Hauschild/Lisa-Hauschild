@@ -5,7 +5,7 @@
 
 - My preferred languages are English, German and Chinese (Mandarin) 🇩🇪🇦🇹🇬🇧🇺🇸中
   
-- I finished technical training, with a focus on React and JavaScript and am now working on 
+- I finished technical training, with a focus on React and JavaScript and am now working on websites for cutsomers like shop owners, who want to sell their products online, doctors, small companies and associations
 
  
 My tech stack: 
